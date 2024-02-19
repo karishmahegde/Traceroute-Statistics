@@ -24,10 +24,6 @@ trstats.py [-h] [-n NUM_RUNS] [-d RUN_DELAY] [-m MAX_HOPS] -o OUTPUT -g GRAPH [-
 | -t | TARGET A target domain name or IP address (required if --test is absent) |
 | --test | TEST_DIR Directory containing num_runs text files, each of which contains the output of a traceroute run. If present, this will override all other options and traceroute will not be invoked. Stats will be computed over the traceroute output stored in the text files. |
 
-Sample Execution Command:
-```
-python3 trstats.py -n 10 -d 1 -m 10 -o stats.json -g stats_graph.pdf -t www.wikipedia.com
-```
 ## Output
 The main output of the project is a file in JSON format that looks like this example:
 ```json
@@ -107,3 +103,16 @@ The project also gives a boxplot graph showing the latency distribution per each
 
 
 ![Graph Output](https://github.com/karishmahegde/Traceroute-Statistics/blob/main/Outputs/GraphOutput.png?raw=true)
+
+## Execution
+If you wish to run my code, run the requirements.txt files first using the below command in your terminal -
+```
+pip install -r requirements.txt
+```
+You can then run the Python code _trstats.py_ as follows -
+```
+python3 trstats.py -n 10 -d 1 -m 10 -o stats.json -g stats_graph.pdf -t www.wikipedia.com
+```
+Change the arguments as suited.
+
+___
