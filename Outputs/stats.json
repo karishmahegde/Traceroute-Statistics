@@ -1,0 +1,112 @@
+[
+    {
+        "avg": 4.114,
+        "hop": 1,
+        "hosts": [
+            "192.168.1.1",
+            "(192.168.1.1)"
+        ],
+        "max": 6.535,
+        "med": 4.523,
+        "min": 2.848
+    },
+    {
+        "avg": 0.0,
+        "hop": 2,
+        "hosts": [
+            "*",
+            "*"
+        ],
+        "max": 0.0,
+        "med": 0.0,
+        "min": 0.0
+    },
+    {
+        "avg": 15.778,
+        "hop": 3,
+        "hosts": [
+            "lag-65.dtr01athnga.netops.charter.com",
+            "(96.34.4.196)"
+        ],
+        "max": 18.917,
+        "med": 16.643,
+        "min": 13.545
+    },
+    {
+        "avg": 14.668,
+        "hop": 4,
+        "hosts": [
+            "lag-19.hcr01athogakn.netops.charter.com",
+            "(159.111.154.98)"
+        ],
+        "max": 16.307,
+        "med": 14.917,
+        "min": 13.236
+    },
+    {
+        "avg": 19.483,
+        "hop": 5,
+        "hosts": [
+            "lag-204.crr02sghlga.netops.charter.com",
+            "(159.111.154.118)"
+        ],
+        "max": 30.881,
+        "med": 20.064,
+        "min": 14.426
+    },
+    {
+        "avg": 8.684,
+        "hop": 6,
+        "hosts": [
+            "lag-20.rcr01sghlgaao.netops.charter.com",
+            "(96.34.15.20)"
+        ],
+        "max": 20.353,
+        "med": 13.942,
+        "min": 0.0
+    },
+    {
+        "avg": 22.568,
+        "hop": 7,
+        "hosts": [
+            "lag-810.bbr01atlnga.netops.charter.com",
+            "(96.34.15.19)"
+        ],
+        "max": 48.759,
+        "med": 19.237,
+        "min": 15.635
+    },
+    {
+        "avg": 28.083,
+        "hop": 8,
+        "hosts": [
+            "lag-804.bbr01spbgsc.netops.charter.com",
+            "(96.34.0.185)"
+        ],
+        "max": 31.034,
+        "med": 27.677,
+        "min": 26.01
+    },
+    {
+        "avg": 30.06,
+        "hop": 9,
+        "hosts": [
+            "lag-800.bcr01gnvqsc18.netops.charter.com",
+            "(96.34.0.134)"
+        ],
+        "max": 35.375,
+        "med": 30.102,
+        "min": 26.27
+    },
+    {
+        "avg": 36.058,
+        "hop": 10,
+        "hosts": [
+            "lag-805.bbr01ashbva.netops.charter.com",
+            "(96.34.0.161)"
+        ],
+        "max": 39.241,
+        "med": 35.746,
+        "min": 34.169
+    }
+]
