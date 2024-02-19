@@ -1,4 +1,4 @@
-# Traceroute Statistics
+# Traceroute Statistics 🌐📈
 This project uses traceroute, parses its output, and performs a statistical analysis of the traceroute results.
 
 **Programming Language used: Python 3.11.5**
@@ -106,3 +106,4 @@ hop latency)
 The project also gives a boxplot graph showing the latency distribution per each hop, similar to this one:
 
 
+![Graph Output](https://github.com/karishmahegde/Traceroute-Statistics/blob/main/Outputs/GraphOutput.png?raw=true)
